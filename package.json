@@ -1,0 +1,25 @@
+{
+  "name": "parking",
+  "version": "1.0.0",
+  "description": "Frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://david2701@github.com/david2701/ParkingSystemFront.git"
+  },
+  "keywords": [
+    "parking"
+  ],
+  "author": "David",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/david2701/ParkingSystemFront/issues"
+  },
+  "homepage": "https://github.com/david2701/ParkingSystemFront#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
